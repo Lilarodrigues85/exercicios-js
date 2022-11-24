@@ -1,5 +1,6 @@
 console.log(7 / 0) //js tem um tipo chamado Infinity
 console.log("10" / 2) //Ele pega o valor e divide com tipo string
+console.log('3' + 2) //Nesse caso não vai somar, vai concatenar, pq a string tem preferência
 console.log("show!" * 2) //Em JS não ai funcionar, vai dar NAN
 console.log(0.1 + 0.7)
 //console.log(10.toString())
